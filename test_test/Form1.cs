@@ -6,5 +6,11 @@ namespace test_test
         {
             InitializeComponent();
         }
+
+        private void label1_Click(object sender, EventArgs e)
+        {
+            //CodinganBaru
+            //Test Dulu
+        }
     }
 }
